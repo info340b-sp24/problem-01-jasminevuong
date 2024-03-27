@@ -1,14 +1,17 @@
 body {
-    font-family: 'Helvetica Neue';
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 16px;
-    line-height: 1.5;
-    max-width: 400px;
 }
 
 p {
     line-height: 1.5;
 }
 
+img {
+    max-height: 400px;
+    max-width: 400px;
+}
+
 .color {
     color: rgb(181, 0, 30);
- }
+}
